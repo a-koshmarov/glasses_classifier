@@ -1,4 +1,7 @@
 # glasses_classifier
+
+## Info
+Komshanov Alexander, ML Specialization, Team: "4 ближайших соседа"
  
 ## Dependencies
 * Python 3.6
